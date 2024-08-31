@@ -1,0 +1,20 @@
+{
+    "56": {
+        "id": "56",
+        "nombre": "cafe",
+        "cantidad": 25,
+        "precio": 2.5
+    },
+    "23": {
+        "id": "23",
+        "nombre": "leche",
+        "cantidad": 32,
+        "precio": 1.25
+    },
+    "45": {
+        "id": "45",
+        "nombre": "pan",
+        "cantidad": 15,
+        "precio": 1.0
+    }
+}
